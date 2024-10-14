@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cPGVJ+S1tKFtIviG79KQpS2tOVaPzaW9djHg15UikgE=",
+  "Source": "ch_01_hello",
+  "BasePath": "_content/ch_01_hello",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
